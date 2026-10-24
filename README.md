@@ -12,9 +12,9 @@
 
 ### STUDENT DETAILS
 
-**Name:** Sanjana K B
+**Name:** A.Reshma
 
-**Register Number:** 410725104071
+**Register Number:** 410725104067
 
 **Year:** II Year
 
